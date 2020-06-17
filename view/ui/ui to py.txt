@@ -1,0 +1,3 @@
+pyside2-uic "C:\Users\gherm\OneDrive\Desktop\APP\model_view.ui" -x -o "C:\Users\gherm\OneDrive\Desktop\APP\view_model.py"
+
+from C:\Windows\System32\cmd.exe
